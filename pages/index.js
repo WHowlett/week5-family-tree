@@ -16,7 +16,7 @@ export default function Home({allData}) {
   return (
   <Layout home>
     
-    <h1 className='text-center'>List of Family Members in Howlett's Family Tree</h1>
+    <h1 className='text-center'>List of Family Members in Howlett Family Tree</h1>
     <br />
     <div className="text-center">
     <div className='list-group smaller-scale'>
