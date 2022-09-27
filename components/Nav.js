@@ -5,7 +5,7 @@ export default function Navbar ({children}) {
            <div>
             <nav className=" navbar navbar-dark navbar-expand-md fixed-top">
                 <div className="container-fluid">
-                    <Link className="navbar-brand" href="/">Howlett's Family Tree
+                    <Link className="navbar-brand" href="/">Howlett Family Tree
                     </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
