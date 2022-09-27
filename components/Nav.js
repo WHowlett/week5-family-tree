@@ -12,7 +12,7 @@ export default function Navbar ({children}) {
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="/">Home</a>
+          <Link className="nav-link active" aria-current="page" href="/">Home</Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" href="/about">About</Link>
