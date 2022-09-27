@@ -6,7 +6,7 @@
         return (
             <div>
                 <Head>
-                    <title>Howlett's Family Tree</title>
+                    <title>Howlett Family Tree</title>
                     <meta name="viewpoint" content="width=device-width, initial-scale=1" />
                 </Head>
                 <Navbar />
