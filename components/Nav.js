@@ -20,7 +20,7 @@ export default function Navbar ({children}) {
                                     <li><Link className="dropdown-item" href="/people/1">Wayne</Link></li>
                                     <li><Link className="dropdown-item" href="/people/2">Lara</Link></li>
                                     <li><Link className="dropdown-item" href="/people/3">Alex</Link></li>
-                                    <li><Link className="dropdown-item" href="/people/4">Daniel</Link><li>
+                                    <li><Link className="dropdown-item" href="/people/4">Daniel</Link></li>
                                 </ul>
                             </li>
                         </ul>
